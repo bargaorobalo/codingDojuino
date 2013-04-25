@@ -18,7 +18,6 @@ Hardware list:
 * empty crisp fries package or some enclosure
 
 Todos:
-- finish the hardware light supliment
-- integrate the button software with the light software
 - use a switch button to start/stop the system
 - define: time of rounds = 7min; action finished time = all lights blinking same time;
+- create a better README, it looks like sketchbook
