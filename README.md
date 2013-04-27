@@ -1,8 +1,9 @@
-codingDojuino
-=============
+#codingDojuino
+_____________
 
 This project is a controller for Coding Dojos. 
 
+<<<<<<< HEAD
 What is this: A hardware to control when audience can speak whit pilot and co-pilot and control the time of dojo's turn. 
 
 How it works: The pilot who's programming allows the audience to comment about the solution only if the green light on, when red light on, everybody muted.
@@ -21,3 +22,37 @@ Todos:
 - use a switch button to start/stop the system
 - define: time of rounds = 7min; action finished time = all lights blinking same time;
 - create a better README, it looks like sketchbook
+=======
+##What is codingDojuino
+______________
+
+A hardware to control when audience can speak whit pilot and co-pilot and control the time of dojo's turn. 
+
+##How it works
+_______________
+
+The pilot who's programming allows the audience to comment about the solution only if the green light on, when red light on, everybody muted.file:///Users/bargaorobalo/Documents/Arduino/codingDojuino/codingDojuino.png
+
+##Hardware list:
+________________
+![Breadboard](codingDojuino.png)
+
+- Arduino
+- pushbutton
+- resistor 10k ohm
+- 20 red LED | 20 green LED
+- Depending of your LED, resistor suppliefile:///Users/bargaorobalo/Documents/Arduino/codingDojuino/codingDojuino.pngs (parallel connection)
+- wires
+- pack of battery (9v ~ 12v)
+- empty crisp fries package or some enclosure
+
+
+##License
+______________
+
+codingDojuino is under [GNU General Public License 3](http://www.gnu.org/licenses/gpl-3.0.html).
+
+###ToDos:
+- use a switch button to start/stop the system;
+- define: time of rounds = 7min;
+>>>>>>> Adding breadboard image
