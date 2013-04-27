@@ -1,20 +1,17 @@
 #codingDojuino
-_____________
 
 This project is a controller for Coding Dojos. 
 
 ##What is codingDojuino
-______________
 
 A hardware to control when audience can speak whit pilot and co-pilot and control the time of dojo's turn. 
 
 ##How it works
-_______________
 
 The pilot who's programming allows the audience to comment about the solution only if the green light on, when red light on, everybody muted.
 
 ##Hardware list:
-________________
+
 ![Breadboard](codingDojuino.png)
 
 - Arduino
@@ -28,7 +25,6 @@ ________________
 
 
 ##License
-______________
 
 codingDojuino is under [GNU General Public License 3](http://www.gnu.org/licenses/gpl-3.0.html).
 
