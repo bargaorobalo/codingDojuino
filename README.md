@@ -15,13 +15,13 @@ The pilot who's programming allows the audience to comment about the solution on
 ![Breadboard](codingDojuino.png)
 
 - Arduino
-- pushbutton
-- resistor 10k ohm
+- Push button
+- Resistor 10k ohm
 - 20 red LED | 20 green LED
-- Depending of your LED, resistor suppliefile:///Users/bargaorobalo/Documents/Arduino/codingDojuino/codingDojuino.pngs (parallel connection)
-- wires
-- pack of battery (9v ~ 12v)
-- empty crisp fries package or some enclosure
+- Depending of your LED, resistor supplies (parallel connection)
+- Wires
+- Battery (9v ~ 12v)
+- empty french fries package or some enclosure
 
 
 ##License
